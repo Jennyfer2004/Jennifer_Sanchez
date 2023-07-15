@@ -1,0 +1,2921 @@
+{
+    "puntos_ventas": {
+        "punt_0": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091418.jpg"
+        },
+        "punt_1": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092105.jpg"
+        },
+        "punt_2": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104434.jpg"
+        },
+        "punt_3": {
+            "lugar": "habana del este",
+            "localizacion": "local en  Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104313.jpg"
+        },
+        "punt_4": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091828.jpg"
+        },
+        "punt_5": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092006.jpg"
+        },
+        "punt_6": {
+            "lugar": "habana del este",
+            "localizacion": "5V93+GV4 La Habana",
+            "foto": "IMG_20230419_113821.jpg"
+        },
+        "punt_7": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104328.jpg"
+        },
+        "punt_8": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_105837.jpg"
+        },
+        "punt_9": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091916.jpg"
+        },
+        "punt_10": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092213.jpg"
+        },
+        "punt_11": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091652.jpg"
+        },
+        "punt_12": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092131.jpg"
+        },
+        "punt_13": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091733.jpg"
+        },
+        "punt_14": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V84+HFP",
+            "foto": "IMG_20230415_113214.jpg"
+        },
+        "punt_15": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104257.jpg"
+        },
+        "punt_17": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado de local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092058.jpg"
+        },
+        "punt_18": {
+            "lugar": "habana del este",
+            "localizacion": " local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092048.jpg"
+        },
+        "punt_19": {
+            "lugar": "habana del este",
+            "localizacion": "Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_113829.jpg"
+        },
+        "punt_21": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.1719800,-82.2630380",
+            "foto": "IMG_20230419_102152.jpg"
+        },
+        "punt_22": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.1563300,-82.763680",
+            "foto": "IMG_20230419_101131.jpg"
+        },
+        "punt_23": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P9M+X4Q,180,LaHabana",
+            "foto": "IMG_20230419_100400.jpg"
+        },
+        "punt_24": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P89+M96 La Habana",
+            "foto": "IMG_20230415_095356.jpg"
+        },
+        "punt_25": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104458.jpg"
+        },
+        "punt_26": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V96+MGX",
+            "foto": "IMG_20230419_111843.jpg"
+        },
+        "punt_27": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V94+vfr",
+            "foto": "IMG_20230419_113049.jpg"
+        },
+        "punt_28": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1696380,-82.1373280",
+            "foto": "IMG_20230419_110222.jpg"
+        },
+        "punt_29": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P4F+V85 La Habana",
+            "foto": "IMG_20230415_093232.jpg"
+        },
+        "punt_30": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1517820,-82.1231590",
+            "foto": "IMG_20230419_114931.jpg"
+        },
+        "punt_31": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091727.jpg"
+        },
+        "punt_32": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.171740,-82.262763",
+            "foto": "IMG_20230419_121752.jpg"
+        },
+        "punt_33": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+            "foto": "IMG_20230419_102339.jpg"
+        },
+        "punt_34": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1716390,-82.2623730"
+        },
+        "punt_35": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.172275,-82.253741"
+        },
+        "punt_36": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1696420,-82.2640820",
+            "foto": "IMG_20230415_101808.jpg"
+        },
+        "punt_37": {
+            "lugar": "habana del este",
+            "localizacion": "locales en  Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_104334.jpg"
+        },
+        "punt_38": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.171931,-82.253419",
+            "foto": "IMG_20230415_101104.jpg"
+        },
+        "punt_39": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.171849,-82.253199",
+            "foto": "IMG_20230415_094700.jpg"
+        },
+        "punt_40": {
+            "lugar": "habana del este",
+            "localizacion": "local en 4V9F+FVQ La Habana",
+            "foto": "IMG_20230419_120045.jpg"
+        },
+        "punt_41": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092236.jpg"
+        },
+        "punt_42": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092236.jpg"
+        },
+        "punt_43": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_091542.jpg"
+        },
+        "punt_44": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230415_092148.jpg"
+        },
+        "punt_45": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 23.1563300,-82.2763680",
+            "foto": "IMG_20230415_093607.jpg"
+        },
+        "punt_46": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P89+37J La Habana",
+            "foto": "IMG_20230415_094937.jpg"
+        },
+        "punt_47": {
+            "lugar": "habana del este",
+            "localizacion": "local en Mercado Agropecuario 494 La Habana",
+            "foto": "IMG_20230419_105526.jpg"
+        },
+        "punt_48": {
+            "lugar": "habana del este",
+            "localizacion": "5V93+GRXLa Habana",
+            "foto": "IMG_20230419_113810.jpg"
+        },
+        "punt_49": {
+            "lugar": "habana del este",
+            "localizacion": "5P5C+2CR La Habana",
+            "foto": "IMG_20230415_101235.jpg"
+        },
+        "punt_50": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230419_092011.jpg"
+        },
+        "punt_51": {
+            "lugar": "habana del este",
+            "localizacion": "local en el mercado 5P5C+2CR",
+            "foto": "IMG_20230419_092048.jpg"
+        },
+        "punt_52": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P89+37J La Habana",
+            "foto": "IMG_20230419_092048.jpg"
+        },
+        "punt_53": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P89+37J La Habana",
+            "foto": "IMG_20230415_101012.jpg"
+        },
+        "punt_54": {
+            "lugar": "habana del este",
+            "localizacion": [23.1568584442,-82.27711486],
+            "foto": "20230415_093118.jpg"
+        },
+        "punt_55": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+            "foto": "20230415_094013.jpg"
+        },
+        "punt_56": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.15755271,-82.27975463",
+            "foto": "20230415_094144.jpg"
+        },
+        "punt_57": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+            "foto": "20230415_094628.jpg"
+        },
+        "punt_58": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+            "foto": "20230415_094654.jpg"
+        },
+        "punt_59": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.16564178,-82.28211212",
+            "foto": "20230415_094732.jpg"
+        },
+        "punt_60": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+            "foto": "20230415_095119.jpg"
+        },
+        "punt_61": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+            "foto": "20230415_095648.jpg"
+        },
+        "punt_62": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16764450,-82.27603912",
+            "foto": "20230415_095730.jpg"
+        },
+        "punt_63": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+            "foto": "20230415_100142.jpg"
+        },
+        "punt_64": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+            "foto": "20230415_100254.jpg"
+        },
+        "punt_65": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+            "foto": "20230415_100529.jpg"
+        },
+        "punt_66": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+            "foto": "20230415_100556.jpg"
+        },
+        "punt_67": {
+            "lugar": "habana del este",
+            "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+            "foto": "20230415_100608.jpg"
+        },
+        "punt_68": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+            "foto": "20230415_101405.jpg"
+        },
+        "punt_69": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+            "foto": "20230415_101513.jpg"
+        },
+        "punt_70": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+            "foto": "20230415_101534.jpg"
+        },
+        "punt_71": {
+            "lugar": "habana del este",
+            "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+            "foto": "20230415_101607.jpg"
+        },
+        "punt_72": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.16980171,-82.26335144",
+            "foto": "20230415_103416.jpg"
+        },
+        "punt_73": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170057,-82.135464",
+            "foto": "IMG_20230419_104910.jpg"
+        },
+        "punt_74": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170029,-82.135506",
+            "foto": "IMG_20230419_104953.jpg"
+        },
+        "punt_75": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170046,-82.135480",
+            "foto": "IMG_20230419_105624.jpg"
+        },
+        "punt_76": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170024,-82.135531",
+            "foto": "IMG_20230419_105826.jpg"
+        },
+        "punt_77": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V97+R2Q La Habana",
+            "foto": "IMG_20230419_110324.jpg"
+        },
+        "punt_78": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170021,-82.135547",
+            "foto": "IMG_20230419_112114.jpg"
+        },
+        "punt_79": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V96+P9H La Habana",
+            "foto": "IMG_20230419_112155.jpg"
+        },
+        "punt_80": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V96+M76 La Habana",
+            "foto": "IMG_20230419_112356.jpg"
+        },
+        "punt_81": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.169421,-82.140395",
+            "foto": "IMG_20230419_112536.jpg"
+        },
+        "punt_82": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.170052,-82.135564",
+            "foto": "IMG_20230419_112538.jpg"
+        },
+        "punt_83": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5V94+GCP La Habana",
+            "foto": "IMG_20230419_113358.jpg"
+        },
+        "punt_84": {
+            "lugar": "habana del este",
+            "localizacion": "local en la esquina 472 5ta D La Habana",
+            "foto": "IMG_20230419_113454.jpg"
+        },
+        "punt_85": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.169839,-82.136053",
+            "foto": "IMG_20230415_093441.jpg"
+        },
+        "punt_86": {
+            "lugar": "habana del este",
+            "localizacion": "local en 5P89+882 La Habana",
+            "foto": "IMG_20230415_095249.jpg"
+        },
+        "punt_87": {
+            "lugar": "habana del este",
+            "localizacion": "local en la coordenada:23.15625190,-82.27656555",
+            "foto": "IMG_20230415_093421.jpg"
+        }
+    },
+    "productos": {
+        "cerverza": [
+            {
+                "marca": "burge meester",
+                "envase": "lata",
+                "color_del_envase": "rojo",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": [23.1568584442,-82.27711486],
+                "foto": "20230415_093118.jpg"
+            },
+            {
+                "marca": "breda beer",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "shkels",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "86",
+                "envase": "lata",
+                "color_del_envase": "azul",
+                "precio": 200,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 8.6,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 190,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "cristal extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 190,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 5.2,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15755271,-82.27975463",
+                "foto": "20230415_094144.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+                "foto": "20230415_094654.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_094732.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+                "foto": "20230415_095119.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 130,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+                "foto": "20230415_095119.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "bavaria",
+                "envase": "botella",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 250,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "stella artois",
+                "envase": "botella",
+                "color_del_envase": "blanco",
+                "precio": 160,
+                "contenido_ml": 250,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Belgica",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "mahou",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16764450,-82.27603912",
+                "foto": "20230415_095730.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16764450,-82.27603912",
+                "foto": "20230415_095730.jpg"
+            },
+            {
+                "marca": "martens",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Belgica",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_100142.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_100142.jpg"
+            },
+            {
+                "marca": "victoria malaga",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_100142.jpg"
+            },
+            {
+                "marca": "cristal extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 250,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 5.2,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_100142.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 250,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "victoria malaga",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "corona extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 250,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "la salve",
+                "envase": "lata",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "belga star",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Belgica",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "donner",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 165,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.0,
+                "pais_de_procedencia": "Polonia",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "tsingtao",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "China",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "santa isabel",
+                "envase": "lata",
+                "color_del_envase": "amarillo",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.6,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "mahou",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "tsingtao",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "China",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "cristal extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 200,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 5.2,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "botella",
+                "color_del_envase": "verde",
+                "precio": 190,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 140,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 200,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 230,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "86",
+                "envase": "lata",
+                "color_del_envase": "azul",
+                "precio": 250,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 8.6,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "bucanero",
+                "envase": "lata",
+                "color_del_envase": "rojo",
+                "precio": 200,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 5.4,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "cristal extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 200,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 5.2,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101513.jpg"
+            },
+            {
+                "marca": "mayabe",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 160,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.0,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101534.jpg"
+            },
+            {
+                "marca": "victoria malaga",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101607.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101607.jpg"
+            },
+            {
+                "marca": "86",
+                "envase": "lata",
+                "color_del_envase": "azul",
+                "precio": 200,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 8.6,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101607.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 200,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101607.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 145,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_103416.jpg"
+            },
+            {
+                "marca": "mahou",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 145,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_103416.jpg"
+            },
+            {
+                "marca": "86",
+                "envase": "lata",
+                "color_del_envase": "azul",
+                "precio": 250,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 8.6,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170029,-82.135506",
+                "foto": "IMG_20230419_104953.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 250,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170029,-82.135506",
+                "foto": "IMG_20230419_104953.jpg"
+            },
+            {
+                "marca": "mahou",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 135,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170046,-82.135480",
+                "foto": "IMG_20230419_105624.jpg"
+            },
+            {
+                "marca": "santa isabel",
+                "envase": "lata",
+                "color_del_envase": "amarillo",
+                "precio": 150,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.6,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170024,-82.135531",
+                "foto": "IMG_20230419_105826.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 350,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "bucanero",
+                "envase": "lata",
+                "color_del_envase": "rojo",
+                "precio": 350,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 5.4,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "hollandia premium",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.7,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 180,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 250,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+P9H La Habana",
+                "foto": "IMG_20230419_112155.jpg"
+            },
+            {
+                "marca": "corona extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 250,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+P9H La Habana",
+                "foto": "IMG_20230419_112155.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "cristal",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 220,
+                "contenido_ml": 355,
+                "volumnen_de_alcohol_en_%": 4.9,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "bavaria",
+                "envase": "lata",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "faxes",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 170,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Dinamarca",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "corona extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 250,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "holland import",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 500,
+                "volumnen_de_alcohol_en_%": 4.8,
+                "pais_de_procedencia": "Holanda",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "corona extra",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 250,
+                "contenido_ml": 350,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "stella artois",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 230,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 5.0,
+                "pais_de_procedencia": "Belgica",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+GCP La Habana",
+                "foto": "IMG_20230419_113358.jpg"
+            },
+            {
+                "marca": "windmill",
+                "envase": "lata",
+                "color_del_envase": "blanco",
+                "precio": 230,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.6,
+                "pais_de_procedencia": "Reino Unido",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+GCP La Habana",
+                "foto": "IMG_20230419_113358.jpg"
+            },
+            {
+                "marca": "puerto santo ",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 130,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la esquina 472 5ta D La Habana",
+                "foto": "IMG_20230419_113454.jpg"
+            },
+            {
+                "marca": "presidente",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 120,
+                "contenido_ml": 237,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Republica Dominicana",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169839,-82.136053",
+                "foto": "IMG_20230415_093441.jpg"
+            },
+            {
+                "marca": "shkels",
+                "envase": "lata",
+                "color_del_envase": "verde",
+                "precio": 140,
+                "contenido_ml": 330,
+                "volumnen_de_alcohol_en_%": 4.5,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            }
+        ],
+        "cebolla": [
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091418.jpg"
+
+            },
+            {
+                "categoria": "libras",
+                "precio": 150,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092105.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104434.jpg"
+        },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en  Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104313.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar":"habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091828.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092006.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "5V93+GV4 La Habana",
+                "foto": "IMG_20230419_113821.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104328.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 180,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_105837.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091916.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092213.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091652.jpg"
+            },
+            {
+                "categoria": "nylon",
+                "precio": 250,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092131.jpg"
+            },
+            {
+                "categoria": "nylon",
+                "precio": 150,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092131.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091733.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V84+HFP",
+                "foto": "IMG_20230415_113214.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104257.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104257.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 150,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P4F+MC4",
+                "foto":"IMG_20230415_093459.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 100,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.1719800,-82.2630380",
+                "foto": "IMG_20230419_102152.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 250,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+MGX",
+                "foto": "IMG_20230419_111843.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 300,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+MGX",
+                "foto": "IMG_20230419_111843.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 180,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+vfr",
+                "foto": "IMG_20230419_113049.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1696380,-82.1373280",
+                "foto": "IMG_20230419_110222.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 180,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P4F+V85 La Habana",
+                "foto": "IMG_20230415_093232.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1517820,-82.1231590",
+                "foto": "IMG_20230419_114931.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 150,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171740,-82.262763",
+                "foto": "IMG_20230419_121752.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 500,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171740,-82.262763",
+                "foto": "IMG_20230419_121752.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_104717.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_104717.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 160,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_102339.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 350,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en 4V9F+FVQ La Habana",
+                "foto": "IMG_20230419_120045.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 500,
+                "color": "morado",
+                "lugar": "habana del este",
+                "localizacion": "local en 4V9F+FVQ La Habana",
+                "foto": "IMG_20230419_120045.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.171931,-82.253419",
+                "foto": "IMG_20230415_101104.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 170,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "locales en  Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104334.jpg"
+            },
+            {
+                "categoria": "pata",
+                "precio": 250,
+                "color": "blanco",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P89+37J La Habana",
+                "foto": "IMG_20230415_101012.jpg"
+            } 
+            ],
+        "refresco": [
+            {
+                "marca": "cachito",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": [23.1568584442,-82.27711486],
+                "foto": "20230415_093118.jpg"
+            },
+            {
+                "marca": "iron bell",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": [23.1568584442,-82.27711486],
+                "foto": "20230415_093118.jpg"
+            },
+            {
+                "marca": "najita",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": [23.1568584442,-82.27711486],
+                "foto": "20230415_093118.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 130,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15752410,-82.27986145",
+                "foto": "20230415_094013.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "frised",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "amarillo",
+                "precio": 130,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "frised",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 130,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16557884,-82.28208923",
+                "foto": "20230415_094628.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+                "foto": "20230415_094654.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+                "foto": "20230415_094654.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+                "foto": "20230415_094654.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16574478,-82.28195953",
+                "foto": "20230415_094654.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_094732.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_094732.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+                "foto": "20230415_095119.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+                "foto": "20230415_095119.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16592025,-82.28157043",
+                "foto": "20230415_095119.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "sprite",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16730499,-82.27620697",
+                "foto": "20230415_095648.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16764450,-82.27603912",
+                "foto": "20230415_095730.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 140,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16564178,-82.28211212",
+                "foto": "20230415_100142.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.16941261,-82.26725769",
+                "foto": "20230415_100254.jpg"
+            },
+            {
+                "marca": "sprite",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1699350,-82.2669920",
+                "foto": "20230415_100529.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 150,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17002868,-82.26759338",
+                "foto": "20230415_100556.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 140,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 160,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "frised",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "amarillo",
+                "precio": 140,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "frised",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 140,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en las coordenadas 23.16911125,-82.26548767",
+                "foto": "20230415_100608.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.17025184,-82.26234436",
+                "foto": "20230415_101405.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101513.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "rojo",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101513.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101534.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101534.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "rojo",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101534.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.16980171,-82.26335144",
+                "foto": "20230415_101607.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P89+882 La Habana",
+                "foto": "IMG_20230415_095249.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P89+882 La Habana",
+                "foto": "IMG_20230415_095249.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en 5P89+882 La Habana",
+                "foto": "IMG_20230415_095249.jpg"
+            },
+            {
+                "marca": "sprite",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 140,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15625190,-82.27656555",
+                "foto": "IMG_20230415_093421.jpg"
+            },
+            {
+                "marca": "fanta",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 140,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.15625190,-82.27656555",
+                "foto": "IMG_20230415_093421.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 150,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 200,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170057,-82.135464",
+                "foto": "IMG_20230419_104910.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 200,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170029,-82.135506",
+                "foto": "IMG_20230419_104953.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 200,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170029,-82.135506",
+                "foto": "IMG_20230419_104953.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 260,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "fanta",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 260,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "naranja",
+                "precio": 260,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V97+R2Q La Habana",
+                "foto": "IMG_20230419_110324.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "sprite",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 160,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170021,-82.135547",
+                "foto": "IMG_20230419_112114.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+P9H La Habana",
+                "foto": "IMG_20230419_112155.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "naranja",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+P9H La Habana",
+                "foto": "IMG_20230419_112155.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 170,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+P9H La Habana",
+                "foto": "IMG_20230419_112155.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 170,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "pinna",
+                "color_del_envase": "naranja",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+M76 La Habana",
+                "foto": "IMG_20230419_112356.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.169421,-82.140395",
+                "foto": "IMG_20230419_112536.jpg"
+            },
+            {
+                "marca": "mirinda",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Espanna",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "7up",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 330,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "pepsi",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "azul",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "coca cola",
+                "envase": "lata",
+                "sabor": "cola",
+                "color_del_envase": "rojo",
+                "precio": 250,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Mexico",
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.170052,-82.135564",
+                "foto": "IMG_20230419_112538.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "naranja",
+                "color_del_envase": "naranja",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+GCP La Habana",
+                "foto": "IMG_20230419_113358.jpg"
+            },
+            {
+                "marca": "ciego montero",
+                "envase": "lata",
+                "sabor": "limon",
+                "color_del_envase": "verde",
+                "precio": 180,
+                "contenido_ml": 355,
+                "pais_de_procedencia": "Cuba",
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+GCP La Habana",
+                "foto": "IMG_20230419_113358.jpg"
+            }],
+        "aji" : [
+            {
+                "categoria": "libras",
+                "precio": 30,
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104434.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104257.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104313.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 40,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091828.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 70,
+                "lugar": "habana del este",
+                "localizacion": "5V93+GV4 La Habana",
+                "foto": "IMG_20230419_113821.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092006.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "jarro",
+                "precio": 250,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092213.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104328.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 70,
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_105837.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091916.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 40,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092213.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "nylon",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091652.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "nylon",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_092131.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091733.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 70,
+                "lugar": "habana del este",
+                "localizacion": "local en 5P4F+MC4",
+                "foto":"IMG_20230415_093503.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 70,
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.1719800,-82.2630380",
+                "foto": "IMG_20230419_102152.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.1563300,-82.763680",
+                "foto": "IMG_20230419_101131.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 30,
+                "lugar": "habana del este",
+                "localizacion": "local en 5P9M+X4Q,180,LaHabana",
+                "foto": "IMG_20230419_100400.jpg"
+            },
+            {
+                "categoria": "libras",
+                "precio": 100,
+                "lugar": "habana del este",
+                "localizacion": "local en 5P89+M96 La Habana",
+                "foto": "IMG_20230415_095356.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "libras",
+                "precio": 60,
+                "lugar": "habana del este",
+                "localizacion": "local en Mercado Agropecuario 494 La Habana",
+                "foto": "IMG_20230419_104458.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 60,
+                "lugar": "habana del este",
+                "localizacion": "local en 5V94+vfr",
+                "foto": "IMG_20230419_113049.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 120,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1696380,-82.1373280",
+                "foto": "IMG_20230419_110222.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "libras",
+                "precio": 60,
+                "lugar": "habana del este",
+                "localizacion": "local en 5V96+MGX",
+                "foto": "IMG_20230419_111843.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 60,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1517820,-82.1231590",
+                "foto": "IMG_20230419_114931.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en el mercado 5P5C+2CR",
+                "foto": "IMG_20230415_091727.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 70,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171740,-82.262763",
+                "foto": "IMG_20230419_121752.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "jarro",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171740,-82.262763",
+                "foto": "IMG_20230419_121752.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.172275,-82.253741",
+                "foto": "IMG_20230419_120609.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "jarro",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_104717.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "libras",
+                "precio": 80,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_102339.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.1716390,-82.2623730",
+                "foto": "IMG_20230419_102339.jpg",
+                "tipo": "pimiento"
+            },
+            {
+                "categoria": "libras",
+                "precio": 60,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171849,-82.253199",
+                "foto": "IMG_20230415_094700.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "jarro",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "local en la coordenada:23.171849,-82.253199",
+                "foto": "IMG_20230415_094700.jpg",
+                "tipo": "cachucha"
+            },
+            {
+                "categoria": "nylon",
+                "precio": 50,
+                "lugar": "habana del este",
+                "localizacion": "locales en la coordenada:23.171931,-82.253419",
+                "foto": "IMG_20230415_101104.jpg",
+                "tipo": "cachucha"
+            }
+        ]
+    }
+}
